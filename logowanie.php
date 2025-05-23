@@ -12,9 +12,8 @@
     </div>
     <div class="flex">
         <div class="lewy"></div>
-        <div class="prawy">
-
-        </div>
+        <div class="prawy1"></div>
+        <div class="prawy2"></div>
     </div>
     <div class="stopka"></div>
 </body>
