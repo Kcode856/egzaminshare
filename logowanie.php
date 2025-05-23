@@ -10,7 +10,9 @@
     <div class="baner"></div>
     <div class="flex">
         <div class="lewy"></div>
-        <div class="prawy"></div>
+        <div class="prawy">
+            
+        </div>
     </div>
     <div class="stopka"></div>
 </body>
