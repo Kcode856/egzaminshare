@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="styl4.css">
 </head>
 <body>
-    <div class="baner"></div>
+    <div class="baner">
+        <h1>Forum wielbicieli psów</h1>
+    </div>
     <div class="flex">
         <div class="lewy"></div>
         <div class="prawy">
-            
+
         </div>
     </div>
     <div class="stopka"></div>
